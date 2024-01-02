@@ -10,21 +10,21 @@ Basic understanding of software testing.
   
   #### Introduction to Problem Solving
     
-  - Understanding Problem Specification
-  - Algorithmic Thinking
-  - Data organization
-  - Writing your first Pseudocode
+  - Understanding Problem Specification.
+  - Algorithmic Thinking.
+  - Data organization.
+  - Writing the first Pseudocode.
     
   #### Programming Basics:
   - Explore IDE features well.
   - Learn fundamental programming constructs like I/O, variables, data types, loops, conditionals and functions.
-  - File handling
-  - Practise basic algorithms and data structures 
+  - File handling.
+  - Practise basic algorithms and data structures. 
   - Understand error handling and debugging techniques.
   - Get familiar with version control system.
     
   #### OOP Concepts:
-  - Introduction to Packages, Classes and objects, Constructors and Access Modifiers
+  - Introduction to Packages, Classes and objects, Constructors and Access Modifiers.
   - Understand the principles of object-oriented programming (OOP) like encapsulation, inheritance, polymorphism, and abstraction.
   - Understand relationships between classes (association, aggregation, composition etc).
   - Apply good class design principles for maintainability.
@@ -95,7 +95,7 @@ Basic understanding of software testing.
 <summary>Projects
 </summary>
   
-#### 1 .Data Processing with Streams:
+#### 1. Data Processing with Streams:
 Implement a program that reads a text file, filters out words containing a specific letter, sorts them alphabetically, and counts the occurrences of each word.
 
 Concepts:
@@ -166,10 +166,10 @@ Concepts:
   - Learn about test configurations
   - Learn about the  core compomnet of the unit test framework (Annotiations, Parameters, Dependencies, Factories, Listeners, Dependency injection etc as applicable.)
   - Understand about Assertions (AAA Pattern)
-  - Creating Layered architecture (clear segrigation between business logic/application logic/data/utils)
-  - Handling test data effectively from internal or external data sources.
-  - Creating useful test reports
-  - Creating reusable utlilities
+  - Creating Layered architecture (clear segrigation between business logic/application logic/data/utils).
+  - Handling test data effectively.
+  - Creating useful test reports.
+  - Creating reusable utlilities.
 
 ### Test execution:
   - Run test on local machine
@@ -184,19 +184,19 @@ Concepts:
 <summary>Project - Test Data Management System
 </summary>
 
-  ### Should support the following Core Functionalities:
+  ### Features to be added
   #### Database Interactions:
-  - Use JDBC to connect to your chosen database (MySQL, PostgreSQL, etc.).
+  - Connect to your chosen database (MySQL, PostgreSQL, etc.).
   - Create classes to represent test data entities and map them to database tables.
   - Implement methods for CRUD (Create, Read, Update, Delete) operations on test data.
   #### Mock Data Generation:
-  - Use libraries like Apache Commons Lang for random data generation.
+  - Use supported libraries for random data generation.
   - Create custom logic for generating realistic data based on specific data types and formats.
   #### Data Anonymization:
   - Develop algorithms for masking or obfuscating sensitive information (e.g., names, addresses).
   - Consider using libraries like Apache OpenBLAS for more advanced anonymization techniques.
   #### Import/Export:
-  - Use Java's file I/O capabilities to read and write test data from/to files (CSV, JSON, XML).
+  - Use file I/O capabilities to read and write test data from/to files (CSV, JSON, XML).
   - Implement parsing and formatting logic for different data formats.
   #### User Interface:
   - Create a menu-driven console application for user input.
@@ -241,6 +241,7 @@ Concepts:
   - Choose appropriate API testing tools/libraries (Postman, RestAssured, Karate DSL or others based on your language and project needs.
   - Configure necessary environments for testing, including test servers, API endpoints, mocking tools, and data setup.
   - Learn how to construct and execute API requests using the chosen tool, handling different HTTP methods, headers, parameters, and body data.
+  - Understand the concept of serialization and deserialization for request body.
   - Validate API responses for expected structure, data, status codes, and error messages.
   - Learn how to use API chains for validating business scenarios using APIs.
   - Manage test data effectively for different test cases, using techniques like parameterization and data-driven testing. 
@@ -314,7 +315,7 @@ Create a keyword-driven automation frameworks similar to the low code tool you h
 </details>
 
 <details>
-<summary>Cloud Based Automation - Intermediate Level
+<summary>Cloud Based Test Infra Setup - Intermediate Level
 </summary>
 
 - Explore key offerings from various cloud providers like AWS CodeBuild, Google Cloud Build, Azure DevOps Pipelines, etc.
