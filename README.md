@@ -346,6 +346,8 @@ Create a keyword-driven automation frameworks similar to the low code tool you h
   - [Coding With John](https://www.youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8)
   - [In28mins](https://www.youtube.com/playlist?list=PL91AF2D4024AA59AF)
   - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
+  - [Testing Mini Bytes](https://www.youtube.com/channel/UC6PTXUHb6j4Oxf0ccdRI11A)
+  - [Java Brains](https://www.youtube.com/@Java.Brains)
 
   ### Blogs/Links
   - https://jenkov.com/tutorials/java/index.html
