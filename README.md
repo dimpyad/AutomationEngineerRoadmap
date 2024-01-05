@@ -5,6 +5,24 @@ This roadmap is designed to guide Automation Engineers seeking to expand their s
 Basic understanding of software testing.
 
 <details>
+<summary>Role of an Automation Engineer
+</summary>
+  
+- Define a robust test automation strategy aligned with project goals and technical requirements. Lead the implementation and execution of the strategy, ensuring efficient automation coverage.
+- Evaluate and Select Automation Tools and Libraries. Analyze and compare various automation tools and libraries based on project needs and team expertise.Recommend and justify the optimal toolset for successful automation initiatives.
+- Prioritize Automation Targets and Scope. Identify and prioritize tasks and processes suitable for automation across different testing layers (e.g., unit, integration, UI).Define the automation scope considering feasibility, ROI, and potential impact on quality.
+- Develop and Maintain Automation Framework. Design and build a flexible and scalable automation framework capable of web, API, and mobile test automation.Continuously improve and maintain the framework, ensuring code reusability and ease of integration.
+- Manage Automation Infrastructure and Environment. Set up and manage the necessary infrastructure for test automation execution, including tools, servers, and environments.
+Monitor and maintain the environment, ensuring smooth execution and timely troubleshooting.
+- Deliver Feedback and Optimize Processes. Facilitate rapid feedback loops by efficiently reporting test results and insights to the development team.Analyze automation performance and propose optimizations to improve efficiency and effectiveness.
+- Document Automation Approach and Tools. Create comprehensive documentation covering the chosen automation process, framework, tools, and evaluation reports.Maintain clear and detailed documentation for smooth onboarding and knowledge sharing within the team.
+- Highlight the role's contribution to improving product quality, reducing manual effort, and increasing development speed.
+- Mention collaboration with developers and testers to ensure effective integration of automation practices.
+- Emphasize the ongoing learning and adaptation aspects of automation engineering in a constantly evolving landscape.
+</details>
+
+
+<details>
 <summary>Foundational Pillars - Beginner Level
 </summary>
   
